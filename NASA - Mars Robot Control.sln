@@ -19,6 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".git", ".git", "{4F04BD13-9
 		.gitignore = .gitignore
 		.github\workflows\dotnetcore.yml = .github\workflows\dotnetcore.yml
 		LICENSE = LICENSE
+		.github\workflows\master_nmrc.yml = .github\workflows\master_nmrc.yml
 		README.md = README.md
 	EndProjectSection
 EndProject
